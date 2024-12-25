@@ -18,15 +18,15 @@ Welcome to **BlogVerse** – A dynamic and intuitive platform where creators can
 
 - **Frontend**:
   - React.js
-  - Tailwind CSS / Bootstrap for styling
+  - Tailwind CSS  and Material UI/ Bootstrap for styling
   - Vite for efficient bundling and development
 
 - **Backend**:
-  - Node.js with Express (if applicable)
+  
   - Firebase for authentication and database
 
 - **Database**:
-  - Firebase Firestore or MongoDB (as per configuration)
+  - Firebase Firestore  (as per configuration)
 
 ---
 
